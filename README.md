@@ -128,14 +128,7 @@ python tests/test_performance.py
 3. **Hybrid Curriculum**: Balances expert guidance (offline data) with exploration (self-play)
 4. **Iterative Reference Update**: Enables progressive self-improvement beyond static baselines
 
-## 📈 Results Preview
 
-| TSP Size | Method | Avg Tour Length | Speedup |
-|----------|--------|----------------|---------|
-| TSP-100  | Transformer | 7.85 | 1x |
-| TSP-100  | **Mamba-DPO** | **7.72** | **3.2x** |
-| TSP-500  | Transformer | OOM | - |
-| TSP-500  | **Mamba-DPO** | **16.42** | **∞** |
 
 ## 🛠️ Configuration Highlights
 
