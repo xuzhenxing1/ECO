@@ -1,6 +1,6 @@
 # Graph Mamba-DPO for Traveling Salesperson Problem
 
-A novel approach combining **State Space Models (Mamba)** with **Direct Preference Optimization (DPO)** for solving large-scale TSP instances (up to TSP-1000).
+A novel approach combining **State Space Models (Mamba)** with **Direct Preference Optimization (DPO)** for solving large-scale TSP and CVRP instances (up to TSP-10000,CVRP-5000).
 
 ## 🚀 Key Features
 
